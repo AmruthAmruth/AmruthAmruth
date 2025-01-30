@@ -1,4 +1,4 @@
-Hi👋 My Name is Amruth Shyju
+###  Hi👋 My Name is Amruth Shyju
 
 ### 💫 About Me  
 Hey there! 👋 I'm Amruth, a **MERN Stack Developer** with a passion for crafting seamless web experiences and solving complex problems. I turn **ideas into reality** with code, blending logic and creativity to build scalable and efficient applications.  

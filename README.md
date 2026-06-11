@@ -44,11 +44,11 @@
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amruthshyju&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmruthAmruth&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
   <br><br>
-  <img title="🔥 Get streak stats for your profile" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amruthshyju&amp;theme=dark&amp;hide_border=false"> 
+  <img title="🔥 Get streak stats for your profile" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmruthAmruth&amp;theme=dark&amp;hide_border=false"> 
 </td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amruthshyju&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AmruthAmruth&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
 </tr>
 </tbody></table>
@@ -95,12 +95,12 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/amruthshyju/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a> 
-<a href="https://github.com/amruthshyju" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50"></a>
+<a href="https://github.com/AmruthAmruth" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50"></a>
 </p>
 
 <!--profile visit count-->
 <div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=amruthshyju&amp;icon=3&amp;color=6" alt=""></a></p>
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AmruthAmruth&amp;icon=3&amp;color=6" alt=""></a></p>
 </div>
 
 <!--horizontal divider(gradient)-->

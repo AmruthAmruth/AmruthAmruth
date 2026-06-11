@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
 </div>
 
 <!--h2 without bottom border-->

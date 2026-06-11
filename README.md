@@ -68,19 +68,19 @@ Recruiters love architecture. Here are the core engineering systems I have built
 ### 📊 GitHub Engineering Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amruth-shyju&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruth-shyju&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmruthAmruth&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthAmruth&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruth-shyju&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmruthAmruth&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amruth-shyju&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmruthAmruth&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
 
 ---

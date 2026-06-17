@@ -48,17 +48,12 @@ const amruth: Engineer = {
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" width="100%"
-      src="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AmruthAmruth&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA&hide_border=true&custom_title=Amruth's%20Contribution%20Graph"
+    alt="Amruth's GitHub Contribution Graph"/>
 </div>
 
 <br/>
@@ -228,13 +223,6 @@ const amruth: Engineer = {
     alt="GitHub Streak Stats"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AmruthAmruth&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA&hide_border=true"
-    alt="Contribution Activity Graph"/>
-</div>
 
 <br/>
 

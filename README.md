@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ===== HEADER WAVE ===== -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Amruth%20Shyju&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Real-Time%20Specialist&descAlignY=56&descSize=17&descColor=a78bfa"/>
 
 <!-- ===== TYPING ANIMATION ===== -->

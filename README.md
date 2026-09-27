@@ -56,9 +56,9 @@ One backend serves company, manager, employee, and super-admin surfaces, with te
 
 ## Activity
 
-*The last year of public commits.*
+*The last year of public contributions.*
 
-<img width="100%" src="https://ghchart.rshah.org/A78BFA/AmruthAmruth" alt="Contribution graph" />
+<img width="100%" src="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/main/assets/contributions.svg" alt="Contribution graph" />
 
 <br/>
 

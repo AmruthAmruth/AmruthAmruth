@@ -56,15 +56,15 @@ One backend serves company, manager, employee, and super-admin surfaces, with te
 
 ## Activity
 
-*Public commit history. The graph is the record.*
+*The last year of public commits.*
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmruthAmruth&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contributions&radius=4" alt="Contribution graph" />
+<img width="100%" src="https://ghchart.rshah.org/A78BFA/AmruthAmruth" alt="Contribution graph" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmruthAmruth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=CDD6F4&hide=issues" alt="GitHub stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=AmruthAmruth&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;icon_color=A78BFA&amp;text_color=CDD6F4" alt="GitHub stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthAmruth&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=CDD6F4" alt="Top languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmruthAmruth&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=CDD6F4" alt="Top languages" />
 
 </div>
 

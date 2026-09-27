@@ -14,13 +14,13 @@ Full stack engineer. I take a product from the screen to the data: live GPS pipe
 
 ## Activity
 
-*The last year of public contributions. The snake crosses the calendar on a loop.*
+**1,083 contributions** since 2023. Public commits across every year: **765**.
 
 <img width="100%" src="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/main/assets/contributions.svg?v=snake" alt="Contribution graph" />
 
 <br/>
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=AmruthAmruth&amp;show_icons=true&amp;hide_border=false&amp;border_radius=16&amp;border_color=7c3aed&amp;bg_color=120c1f&amp;title_color=f5f3ff&amp;icon_color=c4b5fd&amp;text_color=f8fafc&amp;ring_color=c4b5fd&amp;hide=contribs&amp;card_width=560&amp;custom_title=GitHub%20Stats" alt="GitHub stats" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=AmruthAmruth&amp;show_icons=true&amp;hide_border=false&amp;border_radius=16&amp;border_color=7c3aed&amp;bg_color=120c1f&amp;title_color=f5f3ff&amp;icon_color=c4b5fd&amp;text_color=f8fafc&amp;ring_color=c4b5fd&amp;hide=contribs&amp;include_all_commits=true&amp;card_width=560&amp;custom_title=GitHub%20Stats" alt="GitHub stats" />
 
 <br/>
 

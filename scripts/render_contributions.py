@@ -53,7 +53,7 @@ def render(contributions, total):
     height = top + 7 * step + 28
 
     parts = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img">',
         f"<title>{total} contributions in the last year</title>",
         f'<rect width="100%" height="100%" rx="12" fill="#0d1117"/>',
     ]
@@ -80,6 +80,8 @@ def render(contributions, total):
                 f"<title>{day['date']}: {day['count']} contributions</title></rect>"
             )
 
+    parts.append(snake_markup(columns, left, top, cell, step))
+
     for row, name in ((1, "Mon"), (3, "Wed"), (5, "Fri")):
         y = top + row * step + 10
         parts.append(
@@ -101,6 +103,48 @@ def render(contributions, total):
     )
     parts.append("</svg>")
     return "\n".join(parts) + "\n"
+
+
+def snake_markup(columns, left, top, cell, step):
+    """A short snake that crawls every cell of the calendar and then loops."""
+    points = []
+    for index, week in enumerate(columns):
+        rows = range(7) if index % 2 == 0 else range(6, -1, -1)
+        for row in rows:
+            if week[row] is None:
+                continue
+            points.append((left + index * step + cell / 2, top + row * step + cell / 2))
+    if len(points) < 2:
+        return ""
+
+    last = len(points) - 1
+    frames = "".join(
+        f"{100 * i / last:.4f}%{{transform:translate({x:.1f}px,{y:.1f}px)}}"
+        for i, (x, y) in enumerate(points)
+    )
+    duration = 20
+    gap = duration / last
+    segments = 16
+    rules = "".join(f".s{i}{{animation-delay:{-i * gap:.4f}s}}" for i in range(segments))
+    style = (
+        "<style>"
+        f"@keyframes crawl{{{frames}}}"
+        f".snake{{animation:crawl {duration}s linear infinite;transform-box:fill-box;transform-origin:center}}"
+        f"{rules}</style>"
+    )
+    body = []
+    for i in range(segments - 1, 0, -1):
+        body.append(
+            f'<circle class="snake s{i}" cx="0" cy="0" r="4.1" fill="#e0e7ff"/>'
+        )
+    head = (
+        '<g class="snake s0">'
+        '<circle cx="0" cy="0" r="5.4" fill="#ffffff"/>'
+        '<circle cx="1.8" cy="-1.5" r="1.15" fill="#312e81"/>'
+        '<circle cx="1.8" cy="1.5" r="1.15" fill="#312e81"/>'
+        "</g>"
+    )
+    return style + "\n" + "\n".join(body) + "\n" + head
 
 
 def main():

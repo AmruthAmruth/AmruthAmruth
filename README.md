@@ -20,9 +20,11 @@ Full stack engineer. I take a product from the screen to the data: live GPS pipe
 
 <br/>
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=AmruthAmruth&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;icon_color=A78BFA&amp;text_color=CDD6F4" alt="GitHub stats" />
-&nbsp;
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmruthAmruth&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=CDD6F4" alt="Top languages" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=AmruthAmruth&amp;show_icons=true&amp;hide_border=false&amp;border_radius=16&amp;border_color=7c3aed&amp;bg_color=120c1f&amp;title_color=f5f3ff&amp;icon_color=c4b5fd&amp;text_color=f8fafc&amp;ring_color=c4b5fd&amp;hide=contribs&amp;card_width=560&amp;custom_title=GitHub%20Stats" alt="GitHub stats" />
+
+<br/>
+
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmruthAmruth&amp;langs_count=5&amp;hide_border=false&amp;border_radius=16&amp;border_color=7c3aed&amp;bg_color=120c1f&amp;title_color=f5f3ff&amp;text_color=f8fafc&amp;card_width=560" alt="Top languages" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:c4b5fd,100:5b21b6&height=70&section=header&animation=twinkling" alt="" />
 

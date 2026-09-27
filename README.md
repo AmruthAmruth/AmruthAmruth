@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Amruth%20Shyju&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%C2%B7%20Real-Time%20Systems%20%C2%B7%20Multi-Tenant%20SaaS&descAlignY=54&descSize=18&descColor=c4b5fd" alt="Amruth Shyju" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,40:5b21b6,75:7c3aed,100:c4b5fd&height=300&section=header&text=Amruth%20Shyju&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Engineer&descAlignY=50&descSize=22&descColor=f5f3ff" alt="Amruth Shyju" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=860&height=52&lines=Backend+engineer+in+India;Real-time+systems+and+multi-tenant+SaaS;I+ship+queues%2C+APIs%2C+and+services+that+recover" alt="How I work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=C4B5FD&center=true&vCenter=true&width=860&height=54&lines=Full+Stack+Engineer;From+the+interface+to+the+database;Real-time+systems+%C2%B7+Multi-tenant+SaaS;Node.js+%C2%B7+TypeScript+%C2%B7+React" alt="How I work" />
 
-I build backends that stay correct when traffic, tenants, and failure arrive together. That means live GPS pipelines, tenant-isolated SaaS with RBAC, and job queues that retry instead of losing work.
+Full stack engineer. I take a product from the screen to the data: live GPS pipelines, tenant-isolated SaaS with RBAC, and queues that retry instead of losing work.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:c4b5fd,100:5b21b6&height=70&section=header&animation=twinkling" alt="" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -24,9 +24,9 @@ I build backends that stay correct when traffic, tenants, and failure arrive tog
 &nbsp;
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmruthAmruth&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=CDD6F4" alt="Top languages" />
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:c4b5fd,100:5b21b6&height=70&section=header&animation=twinkling" alt="" />
 
-<br/>
+</div>
 
 ## Systems
 
@@ -55,11 +55,11 @@ One backend serves company, manager, employee, and super-admin surfaces, with te
 </tr>
 </table>
 
-<br/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:c4b5fd,100:5b21b6&height=70&section=header&animation=twinkling" alt="" />
 
 ## Stack
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,socketio,mongodb,redis,docker,nginx,aws,linux,githubactions,react,nextjs,tailwind,redux,git,github&perline=9" alt="Stack" />
 
@@ -67,15 +67,11 @@ One backend serves company, manager, employee, and super-admin surfaces, with te
 
 Node.js, TypeScript, Express, Socket.IO, BullMQ, MongoDB, Mongoose, Redis, Zod, Docker, Nginx, AWS, Linux, GitHub Actions, React, Next.js, Tailwind, Redux
 
-</div>
-
-<br/>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:c4b5fd,100:5b21b6&height=70&section=header&animation=twinkling" alt="" />
 
 ## Contact
 
-Architecture reviews, distributed-systems conversations, and backend roles.
+Architecture reviews, distributed-systems conversations, and full stack roles.
 
 <br/>
 
@@ -85,6 +81,6 @@ Architecture reviews, distributed-systems conversations, and backend roles.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,40:7c3aed,75:5b21b6,100:1e1b4b&height=140&section=footer&animation=twinkling" alt="" />
 
 </div>

@@ -58,7 +58,7 @@ One backend serves company, manager, employee, and super-admin surfaces, with te
 
 *The last year of public contributions. The snake crosses the calendar on a loop.*
 
-<img width="100%" src="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/main/assets/contributions.svg" alt="Contribution graph" />
+<img width="100%" src="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/main/assets/contributions.svg?v=snake" alt="Contribution graph" />
 
 <br/>
 

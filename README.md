@@ -1,104 +1,170 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55" alt="Waving hand" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="48" alt="Waving hand" />
 
-# Hi, I'm Amruth Shyju
+<p>Hi, I'm</p>
+<h1 align="center">Amruth Shyju</h1>
+<h3 align="center">Full Stack Engineer</h3>
 
-### Full Stack Engineer
+<p><code>Node.js · TypeScript · Express · React · MongoDB · Redis</code></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=760&height=45&lines=From+the+interface+to+the+database;Live+GPS+pipelines+%C2%B7+multi-tenant+SaaS;Queues+that+retry+instead+of+losing+work" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=3FB950&center=true&vCenter=true&width=680&height=42&lines=From+the+interface+to+the+database;Live+GPS+pipelines+%C2%B7+multi-tenant+SaaS;Queues+that+retry+instead+of+losing+work" alt="Typing introduction" />
 
-<p>
-I’m a full stack engineer focused on building products from the interface<br/>
-through the API, backend systems, and database.
-</p>
-
-<p>
-I work with live GPS pipelines, tenant-isolated SaaS platforms,<br/>
-role-based access control, background jobs, and real-time systems.
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,40:238636,75:3fb950,100:052e16&height=70&section=header&animation=twinkling" width="100%" alt="" />
+<p>Backend-focused engineering for software that has to keep working.</p>
 
 </div>
 
-
-## 📊 GitHub Activity
-
-<img src="https://komarev.com/ghpvc/?username=AmruthAmruth&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
-
-<img src="assets/contributions.svg" width="100%" alt="GitHub contribution graph" />
-
-<br/><br/>
-
-<a href="https://github.com/AmruthAmruth">
-<img src="https://github-stats-extended.vercel.app/api?username=AmruthAmruth&show_icons=true&hide_border=false&border_radius=16&border_color=238636&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950&hide=contribs&include_all_commits=true&card_width=495&custom_title=GitHub%20Stats" width="49%" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/AmruthAmruth">
-<img src="https://streak-stats.demolab.com?user=AmruthAmruth&hide_border=false&border_radius=16&background=0D1117&border=238636&stroke=238636&ring=3FB950&fire=3FB950&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=3FB950&sideLabels=7EE787&dates=8B949E" width="49%" alt="GitHub contribution streak" />
-</a>
-
-<br/><br/>
-
-<img src="assets/trophies.svg" width="100%" alt="GitHub trophies" />
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,40:238636,75:3fb950,100:052e16&height=70&section=header&animation=twinkling" width="100%" alt="" />
+## Activity
 
-## 🛠️ Tech Stack
+Consistency · Building · Learning · Shipping
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,socketio,mongodb,redis,docker,nginx,aws,linux,githubactions,react,nextjs,tailwind,redux,git,github&perline=9" alt="Technology stack" />
-
-<br/><br/>
-
-<p>
-<strong>Backend</strong><br/>
-Node.js · TypeScript · Express · Socket.IO · BullMQ · MongoDB · Mongoose · Redis · Zod
-</p>
-
-<p>
-<strong>Frontend</strong><br/>
-React · Next.js · Tailwind CSS · Redux
-</p>
-
-<p>
-<strong>DevOps & Infrastructure</strong><br/>
-Docker · Nginx · AWS · Linux · GitHub Actions · Git
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,40:238636,75:3fb950,100:052e16&height=70&section=header&animation=twinkling" width="100%" alt="" />
-
-## 🤝 Let's Connect
-
-<p>
-Architecture discussions, distributed-systems conversations,<br/>
-and full stack engineering opportunities.
-</p>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/amruthshyju/">
-<img src="https://img.shields.io/badge/LinkedIn-Amruth%20Shyju-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-  
-
-<a href="mailto:amruthshyju@gmail.com">
-<img src="https://img.shields.io/badge/Email-amruthshyju%40gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee787,35:3fb950,70:238636,100:052e16&height=120&section=footer&animation=twinkling" width="100%" alt="" />
-
+<div align="center">
+  <img src="assets/contributions.svg" width="100%" alt="GitHub contribution graph for the last year" />
 </div>
+
+<br/>
+
+## About
+
+I build production-oriented web systems with a strong focus on backend architecture, scalability, and real-world problem solving. Most of that work is TypeScript on Node.js: REST APIs, MongoDB, Redis, background jobs, and real-time updates, with React and Next.js when the product needs an interface.
+
+The problems I keep coming back to are live GPS pipelines, tenant-isolated SaaS, role-based access, and background jobs that retry instead of dropping work.
+
+**I enjoy turning complex requirements into clean, scalable, maintainable systems.**
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation across the GitHub contribution graph" src="https://raw.githubusercontent.com/AmruthAmruth/AmruthAmruth/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+## Stats
+
+<p align="center">
+  <a href="https://github.com/AmruthAmruth">
+    <img width="400" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AmruthAmruth&show_icons=true&hide=contribs&hide_border=false&border_radius=16&border_color=30363d&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=F0F6FC&ring_color=3FB950&card_width=495&custom_title=GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/AmruthAmruth">
+    <img width="400" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=AmruthAmruth&hide_border=false&border_radius=16&card_width=495&card_height=170&background=0D1117&border=30363d&stroke=30363d&ring=3FB950&fire=3FB950&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=3FB950&sideLabels=8B949E&dates=8B949E" />
+  </a>
+</p>
+
+<br/>
+
+## How I Build
+
+| Concern | In practice |
+| --- | --- |
+| Architecture | Clean, modular boundaries |
+| Backend | Scalable APIs and services |
+| Data | MongoDB and Redis |
+| Async | BullMQ and background jobs |
+| Realtime | Socket.IO |
+| Security | JWT, RBAC, and Zod |
+| Infrastructure | Docker, AWS, Nginx, and GitHub Actions |
+| Frontend | React, Next.js, and Redux |
+
+<br/>
+
+## Tech Stack
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express&perline=4" alt="JavaScript, TypeScript, Node.js, and Express" />
+</p>
+<p align="center">Node.js · TypeScript · Express.js</p>
+
+<h3 align="center">Databases and caching</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis&perline=2" alt="MongoDB and Redis" />
+</p>
+<p align="center">MongoDB · Mongoose · Redis</p>
+
+<h3 align="center">Architecture</h3>
+<p align="center">REST APIs · Clean Architecture · DDD · Repository pattern · Dependency injection · Multi-tenant architecture · RBAC · JWT · Zod</p>
+
+<h3 align="center">Async and realtime</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=socketio&perline=1" alt="Socket.IO" />
+</p>
+<p align="center">BullMQ · Socket.IO</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=4" alt="React, Next.js, Redux, and Tailwind CSS" />
+</p>
+<p align="center">React · Next.js · Redux · Tailwind CSS</p>
+
+<h3 align="center">DevOps and cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,githubactions,git,github&perline=4" alt="Docker, Nginx, AWS, Linux, GitHub Actions, Git, and GitHub" />
+</p>
+<p align="center">Docker · Nginx · AWS · Linux · GitHub Actions · Git · GitHub</p>
+
+<br/>
+
+## What I Build
+
+- Scalable REST APIs
+- Multi-tenant SaaS platforms
+- Real-time applications
+- GPS and trip-analytics systems
+- Background jobs and queues
+- Authentication and role-based access
+- Production full-stack applications
+
+<br/>
+
+## Projects
+
+### [Speedo](https://github.com/AmruthAmruth/Speedo)
+
+GPS vehicle tracking that turns raw coordinates into trip metrics.
+
+**Tech:** `Node.js · TypeScript · Express · MongoDB · React`
+
+- **Problem.** Fleet data arrives as latitude and longitude, not as trips someone can review.
+- **Approach.** Distance, speed, idling, stoppages, and overspeed are calculated from the GPS stream and exposed through JWT-protected APIs.
+- **Structure.** Clean Architecture keeps that domain logic independent of Express and Mongoose.
+
+[Source](https://github.com/AmruthAmruth/Speedo)
+
+### [Stratify](https://github.com/AmruthAmruth/Stratify)
+
+Multi-tenant workforce and project platform.
+
+**Tech:** `TypeScript · Node.js · Express · MongoDB · Socket.IO · Zod · React`
+
+- **Problem.** One product has to serve many companies without leaking data across tenants.
+- **Approach.** Tenant context is applied in the data layer, with RBAC for employee, manager, company admin, and super admin.
+- **Structure.** Clean Architecture and dependency injection keep use cases independent of Mongoose. Authenticated Socket.IO carries chat and live notifications.
+
+[Live demo](https://stratify-sigma.vercel.app) · [Source](https://github.com/AmruthAmruth/Stratify)
+
+<br/>
+
+## Let's Connect
+
+<p align="center">Building something interesting, or want to talk through a system?</p>
+
+<p align="center">Architecture, real-time systems, and full stack engineering.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amruthshyju/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=3FB950" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AmruthAmruth"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=3FB950" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:amruthshyju@gmail.com"><img alt="Email amruthshyju@gmail.com" src="https://img.shields.io/badge/Email-161B22?style=flat&logo=gmail&logoColor=3FB950" /></a>
+</p>
+
+<p align="center"><a href="mailto:amruthshyju@gmail.com">amruthshyju@gmail.com</a></p>

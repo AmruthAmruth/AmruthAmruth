@@ -125,34 +125,6 @@ The problems I keep coming back to are live GPS pipelines, tenant-isolated SaaS,
 
 <br/>
 
-## Projects
-
-### [Speedo](https://github.com/AmruthAmruth/Speedo)
-
-GPS vehicle tracking that turns raw coordinates into trip metrics.
-
-**Tech:** `Node.js · TypeScript · Express · MongoDB · React`
-
-- **Problem.** Fleet data arrives as latitude and longitude, not as trips someone can review.
-- **Approach.** Distance, speed, idling, stoppages, and overspeed are calculated from the GPS stream and exposed through JWT-protected APIs.
-- **Structure.** Clean Architecture keeps that domain logic independent of Express and Mongoose.
-
-[Source](https://github.com/AmruthAmruth/Speedo)
-
-### [Stratify](https://github.com/AmruthAmruth/Stratify)
-
-Multi-tenant workforce and project platform.
-
-**Tech:** `TypeScript · Node.js · Express · MongoDB · Socket.IO · Zod · React`
-
-- **Problem.** One product has to serve many companies without leaking data across tenants.
-- **Approach.** Tenant context is applied in the data layer, with RBAC for employee, manager, company admin, and super admin.
-- **Structure.** Clean Architecture and dependency injection keep use cases independent of Mongoose. Authenticated Socket.IO carries chat and live notifications.
-
-[Live demo](https://stratify-sigma.vercel.app) · [Source](https://github.com/AmruthAmruth/Stratify)
-
-<br/>
-
 ## Let's Connect
 
 <p align="center">Building something interesting, or want to talk through a system?</p>

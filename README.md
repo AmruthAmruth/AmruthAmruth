@@ -4,9 +4,9 @@
 
 <p>Hi, I'm</p>
 <h1 align="center">Amruth Shyju</h1>
-<h3 align="center">Full Stack Engineer</h3>
+<h3 align="center">Full Stack Engineer </h3>
 
-<p><code>Node.js · TypeScript · Express · React · MongoDB · Redis</code></p>
+<p><code>JavaScript · Node.js · TypeScript · Express · React · MongoDB · Redis</code></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=3FB950&center=true&vCenter=true&width=680&height=42&lines=From+the+interface+to+the+database;Live+GPS+pipelines+%C2%B7+multi-tenant+SaaS;Queues+that+retry+instead+of+losing+work" alt="Typing introduction" />
 

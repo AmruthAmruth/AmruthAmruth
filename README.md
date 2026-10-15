@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="48" alt="Waving hand" />
-
 <p>Hi, I'm</p>
 <h1 align="center">Amruth Shyju</h1>
 <h3 align="center">Full Stack Engineer </h3>

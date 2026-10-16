@@ -85,10 +85,8 @@ The problems I keep coming back to are live GPS pipelines, tenant-isolated SaaS,
   <img src="https://skillicons.dev/icons?i=mongodb,redis&perline=2" alt="MongoDB and Redis" />
 </p>
 <p align="center">MongoDB · Mongoose · Redis</p>
-
 <h3 align="center">Architecture</h3>
 <p align="center">REST APIs · Clean Architecture · DDD · Repository pattern · Dependency injection · Multi-tenant architecture · RBAC · JWT · Zod</p>
-
 <h3 align="center">Async and realtime</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=socketio&perline=1" alt="Socket.IO" />

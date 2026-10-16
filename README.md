@@ -15,7 +15,6 @@
 <br/>
 
 ## Activity
-
 Consistency · Building · Learning · Shipping
 
 <div align="center">
@@ -25,7 +24,6 @@ Consistency · Building · Learning · Shipping
 <br/>
 
 ## About
-
 I build production-oriented web systems with a strong focus on backend architecture, scalability, and real-world problem solving. Most of that work is TypeScript on Node.js: REST APIs, MongoDB, Redis, background jobs, and real-time updates, with React and Next.js when the product needs an interface.
 
 The problems I keep coming back to are live GPS pipelines, tenant-isolated SaaS, role-based access, and background jobs that retry instead of dropping work.
